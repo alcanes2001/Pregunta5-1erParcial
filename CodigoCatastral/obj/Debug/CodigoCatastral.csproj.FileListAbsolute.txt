@@ -1,0 +1,9 @@
+c:\users\alcan\documents\visual studio 2012\Projects\CodigoCatastral\CodigoCatastral\bin\Debug\CodigoCatastral.exe.config
+c:\users\alcan\documents\visual studio 2012\Projects\CodigoCatastral\CodigoCatastral\obj\Debug\CodigoCatastral.csprojResolveAssemblyReference.cache
+c:\users\alcan\documents\visual studio 2012\Projects\CodigoCatastral\CodigoCatastral\obj\Debug\CodigoCatastral.Form1.resources
+c:\users\alcan\documents\visual studio 2012\Projects\CodigoCatastral\CodigoCatastral\obj\Debug\CodigoCatastral.Properties.Resources.resources
+c:\users\alcan\documents\visual studio 2012\Projects\CodigoCatastral\CodigoCatastral\obj\Debug\CodigoCatastral.csproj.GenerateResource.Cache
+c:\users\alcan\documents\visual studio 2012\Projects\CodigoCatastral\CodigoCatastral\bin\Debug\CodigoCatastral.exe
+c:\users\alcan\documents\visual studio 2012\Projects\CodigoCatastral\CodigoCatastral\bin\Debug\CodigoCatastral.pdb
+c:\users\alcan\documents\visual studio 2012\Projects\CodigoCatastral\CodigoCatastral\obj\Debug\CodigoCatastral.exe
+c:\users\alcan\documents\visual studio 2012\Projects\CodigoCatastral\CodigoCatastral\obj\Debug\CodigoCatastral.pdb
